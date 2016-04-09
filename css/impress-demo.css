@@ -662,6 +662,7 @@ div.image {
     transition:         opacity 1s,         transform 0.5s 1s;
 }
 
+
 /*
     Now we 'enable' the hint when presentation is initialized ...
 */
@@ -719,7 +720,7 @@ div.image {
 
     So use it wisely ... or don't use at all.
 */
-.impress-enabled          { pointer-events: none }
+
 .impress-enabled #impress { pointer-events: auto }
 
 /*
