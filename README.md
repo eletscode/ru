@@ -1,12 +1,8 @@
-Презентация на impress.js
+Практика для студентов ЕГУ - Презентация на impress.js
 ============
 
-Практика для студентов ЕГУ
+[Начать](http://vladimirandropov.github.io/start/#/overview)
 ---------------
-
-[демо](http://vladimirandropov.github.io/start/#/overview)
-
-
 
 LICENSE
 ---------
