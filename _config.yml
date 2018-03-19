@@ -1,8 +1,15 @@
 title: Elets.University
-description: коллектив профессионалов корпоративного обучения
+description: коллектив профессионалов
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
+image:
+        mapping:           product_image # required
+        filename_property: GitHub_logo.png     # required
+        size:              imageSize
+        mime_type:         imageMimeType
+        original_name:     GitHub_logo.png
+        dimensions:        imageDimensions
