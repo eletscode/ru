@@ -1,6 +1,3 @@
-
-
-
 ### Добро пожаловать в Elets.University
 Это информационная страница проекта [Cruzaria](https://cruzaria.github.com/)
 
