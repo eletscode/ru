@@ -1,10 +1,5 @@
 
-<div id="header">
-        <nav>
-          <li class="fork"><a href="http://54.202.22.177">Витрина курсов</a></li>
-           <li class="fork"><a href="http://54.202.22.177:18010">Создание курсов</a></li>
-        </nav>
-      </div>
+
 
 ### Добро пожаловать в Elets.University
 Это информационная страница проекта [Cruzaria](https://cruzaria.github.com/)
