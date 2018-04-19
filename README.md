@@ -1,14 +1,12 @@
-Практика для студентов ЕГУ - Презентация на impress.js
+Starting page for Eletscode
 ============
 
-[Начать](http://vladimirandropov.github.io/start/#/overview)
+[Demo](https://eletscode.github.io/ru)
 ---------------
 
 LICENSE
 ---------
 
-Copyright 2011-2012 Bartek Szopka
-
-Released under the MIT and GPL (version 2 or later) Licenses.
+Copyright 2018  MIT and GPL (version 2 or later) Licenses.
 
 
